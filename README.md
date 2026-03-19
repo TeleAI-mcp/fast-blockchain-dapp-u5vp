@@ -1,2 +1,3 @@
-# fast-blockchain-dapp-u5vp
-A repository to test GitHub automation for issue management
+# Fast Blockchain Dapp U5Vp
+
+A repository to test GitHub automation for issue management.
